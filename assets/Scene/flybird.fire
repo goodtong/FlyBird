@@ -1685,7 +1685,9 @@
     "_N$disabledSprite": {
       "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
     },
-    "_N$target": null,
+    "_N$target": {
+      "__id__": 33
+    },
     "_id": "101U7/Z+5D8L2MQ+9XYDxv"
   },
   {
