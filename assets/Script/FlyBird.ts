@@ -152,7 +152,7 @@ export default class NewClass extends cc.Component {
         if (bird.x - 17 > pipe.x + 26) {
             return
         }
-        if ((bird.y + 12 < pipe.y + 100) && (bird.y - 12 > pipe.y - 100)) {
+        if ((bird.y + 24 < pipe.y + 100) && (bird.y - 24 > pipe.y - 100)) {
             return
         }
         this.over()
